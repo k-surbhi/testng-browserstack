@@ -1,7 +1,7 @@
 {
   "server": "hub-cloud.browserstack.com",
-  "user": "BROWSERSTACK_USERNAME",
-  "key": "BROWSERSTACK_ACCESS_KEY",
+  "user": "hashiransari_ECvKVH",
+  "key": "KsWxT5zkJ5d4bno2U13s",
 
   "capabilities": {
     "build": "browserstack-build-1",
@@ -13,6 +13,12 @@
     "env1": {
       "browser": "chrome"
     },
+    
+    "environments": {
+    "env1": {
+      "browser": "edge"
+    },
+      
     "env2": {
       "browser": "firefox"
     },
